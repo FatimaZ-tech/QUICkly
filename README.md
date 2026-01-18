@@ -33,7 +33,7 @@ This repository is part of an ongoing research, and rule tuning and baseline sup
 
 * Zero-length Source Connection ID (SCID)  
 * Short or unusual DCID length patterns  
-* Known non-browser Initial fingerprint structures  
+* Known non-browser initial fingerprint structures (Currently under tuning, user can manually add their own rules in the code)
 
 > **Note:** Some rules intentionally flag standardized browser behavior.  
 > These matches are treated as implementation fingerprints, not indicators of malicious activity.
