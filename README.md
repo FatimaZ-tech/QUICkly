@@ -71,6 +71,12 @@ python QUICkly.py test.pcap
 
 ---
 
+## Technical Write-up
+
+Discussion on the motivation behind this project is available here: https://medium.com/@fatimazakir1312/quic-forensics-using-initial-packets-hunting-clues-in-encrypted-traffic-b3712c6477be
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**.
